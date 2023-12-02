@@ -1,4 +1,7 @@
-Фронтенд разработчик идущий в бэкенд.
+Больше двух лет проработал фронтенд разработчиком (React, TS).  
+Сейчас прохожу на Hexlet курс по бэкенду на Python  
+[Мой профиль на Hexlet](https://ru.hexlet.io/u/olegrla)  
+[Резюме](https://cv.hexlet.io/ru/resumes/2913)
 
 |<a href="https://github-readme-stats.vercel.app/api?username=OlegKhiretdinov"><img src="https://github-readme-stats.vercel.app/api?username=OlegKhiretdinov&hide_border=true" alt="Oleg Khiretdinov github stats" /></a>|<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegKhiretdinov"><img style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegKhiretdinov&layout=compact&hide_border=true" /></a>|
 | ------------- | ------------- |
