@@ -9,7 +9,6 @@
 [Профиль на Hexlet](https://ru.hexlet.io/u/olegrla)  
 [Резюме](https://cv.hexlet.io/ru/resumes/2913)  
 [telegram](https://t.me/OlegFrontend)  
-[oleg@oleg.win](mailto:oleg@oleg.win)  
 
 |<a href="https://github-readme-stats.vercel.app/api?username=OlegKhiretdinov"><img src="https://github-readme-stats.vercel.app/api?username=OlegKhiretdinov&hide_border=true" alt="Oleg Khiretdinov github stats" /></a>|<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegKhiretdinov"><img style="margin-bottom: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegKhiretdinov&layout=compact&hide_border=true" /></a>|
 | ------------- | ------------- |
